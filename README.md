@@ -1,4 +1,4 @@
-# laptop_sync
+# laptop_sync 💻
 
 A simple set of bash scripts to backup a laptop to a remote machine using rsync.
 
