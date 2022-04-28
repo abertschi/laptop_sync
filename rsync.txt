@@ -1,0 +1,13 @@
+# ignore folders
+- /**/venv/***
+- /**/.venv/***
+- /**/node_modules/***
+- /**/.syncignore/**
+
+# main backup
++ /.ssh/***
+
+# ignore rest
+- /**
+
+
