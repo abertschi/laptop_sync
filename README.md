@@ -20,3 +20,8 @@ A simple set of bash scripts to backup a laptop to a remote machine using rsync.
 ### Run
 - 1. Setup sync options in laptop_sync_internal.sh
 - 2. cronjob: `*/30 * * * * /some/bin/laptop_sync.sh`
+
+
+### About
+Andrin Bertschi  
+https://abertschi.ch
